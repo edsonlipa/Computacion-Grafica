@@ -288,7 +288,7 @@ glutInit (&argc,argv ) ;
 glutInitDisplayMode( GLUT_SINGLE | GLUT_RGB ) ;
 glutInitWindowPosition (500 , 100) ;
 glutInitWindowSize ( 1000,1000) ;
-glutCreateWindow ( " Algoritmos Lineas " ) ;
+glutCreateWindow ( " poligonos y pintado " ) ;
 Inicio() ;
 // glutReshapeFunc(reshape);
 glutKeyboardFunc(keyboard);
