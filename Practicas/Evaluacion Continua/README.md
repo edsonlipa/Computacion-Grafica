@@ -38,7 +38,14 @@ ahora, podemos agregarle el numero de vertices del poligono directamte al ejecut
 5 vendria a ser el numero de vertices , cuando se hagan 5 clicks , el poligono se formara y se pintara.
 
 ## Por que una imagen vale que 1000 readme's
-![Screenshot](5puntos.png)
-Add additional notes about how to deploy this on a live system
+* se puede ver como se fa vormando el poligono con 5 puntos.
+![puntos](5puntos.png)
+* con los 5 puntos se cierra el poligono y se pinta.
+![pintado](pintado.png)
+* una ves terminado , se puede rotar en forma horaria o anti horaria con respecto al centro.
+![rotacion](rotacion.png)
+* tambien tenemos una imagen del escalamiento en accion.
+![esclamiento](escalamiento.png)
+
 
 
