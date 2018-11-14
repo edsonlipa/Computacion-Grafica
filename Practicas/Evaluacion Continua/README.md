@@ -45,7 +45,7 @@ ahora, podemos agregarle el numero de vertices del poligono directamte al ejecut
 * una ves terminado , se puede rotar en forma horaria o anti horaria con respecto al centro.
 ![rotacion](rotacion.png)
 * tambien tenemos una imagen del escalamiento en accion.
-![escalamiento](escalamiento.png)
+![escalamiento](scalamiento.png)
 
 
 
